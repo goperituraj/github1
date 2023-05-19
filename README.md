@@ -16,3 +16,4 @@ Personal and professional growth: Open source contributions can lead to personal
 Access to a wide range of projects and technologies: Open source projects cover a vast array of domains and technologies. Contributing to different projects allows developers to explore new areas, gain exposure to different programming languages, and broaden their horizons.
 
 Giving back to the community: Open source software relies on the contributions of volunteers who dedicate their time and skills to create and maintain projects that are freely available to everyone. Contributing to open source is a way to give back to the community and help support the ethos of free and accessible software.
+these are some of the reasons
